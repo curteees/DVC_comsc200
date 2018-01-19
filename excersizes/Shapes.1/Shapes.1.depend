@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472084508 source:/Users/Curtis1/Documents/C++/comsc200/excersizes/Shapes.1/main.cpp
+	<fstream>
+	<iostream>
+	<iterator>
+	<string>
+	<sstream>
+	<vector>
+

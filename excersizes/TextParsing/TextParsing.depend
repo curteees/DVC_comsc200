@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471994080 source:/Users/Curtis1/Documents/C++/comsc200/excersizes/TextParsing/main.cpp
+	<iostream>
+	<string>
+	<iterator>
+	<sstream>
+	<vector>
+	<iostream>
+	<iterator>
+	<string>
+	<sstream>
+	<vector>
+
